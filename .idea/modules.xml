@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DatabaseLibrary_JNA.iml" filepath="$PROJECT_DIR$/DatabaseLibrary_JNA.iml" />
+    </modules>
+  </component>
+</project>
